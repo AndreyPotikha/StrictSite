@@ -1,0 +1,26 @@
+footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 90px; }
+
+.footer-text {
+  font-family: 'Lato', sans-serif; }
+
+.footer-facebook {
+  color: #3b5998; }
+
+.footer-twitter {
+  color: #55acee;
+  background-color: #111; }
+
+.footer-google-plus {
+  color: #dd4b39; }
+
+.footer-linkedin {
+  color: #0976b4; }
